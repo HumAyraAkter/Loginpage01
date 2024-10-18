@@ -1,0 +1,69 @@
+.image{
+    height: 755px;
+    width: 1369px;
+    position: relative;
+}
+.log{
+    background-color:transparent;
+    border: 2px rgb(182, 167, 216) solid;
+    border-radius: 8px;
+    backdrop-filter: blur(7px);
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    top: 235px;
+    left: 470px;
+    box-shadow: 0px 0px 3px 0px;
+}
+
+.sec{
+    margin-left: 30px;
+}
+.hh ::placeholder{
+    color: white;
+
+}
+.vv ::placeholder{
+    color: white;
+
+}
+.f-1{
+    position: absolute;
+    top: 80px;
+    left: 330px;
+}
+.f-2{
+    position: absolute;
+    top: 130px;
+    left: 330px;
+}
+.fa-solid{
+    color: white;
+
+}
+.reg :hover{
+    color: rgb(192, 124, 255);
+    box-shadow: 0px 0px 70px 0px rgb(255, 255, 255);
+}
+.fog :hover{
+border: solid 1px rgb(182, 167, 216);
+border-radius: 10px;
+padding: 7px;
+}
+.poo{
+    width: 320px; 
+    height: 35px; 
+    border-radius: 20px; 
+    border: 2px solid white; 
+    background-color: white; 
+    margin-left: 7px;
+}
+.poo :hover{
+color: rgb(153, 0, 255); 
+}
+.hello{
+    padding:  0px 0px 0px 20px;
+}
+.bye{
+    padding:  0px 0px 0px 20px;
+}
